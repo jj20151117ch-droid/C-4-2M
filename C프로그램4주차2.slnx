@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C프로그램4주차2/C프로그램4주차2.vcxproj" />
+</Solution>
